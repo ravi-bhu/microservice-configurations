@@ -3,4 +3,4 @@ spring:
     mongodb:
       # uri: set your mongodb url here mongodb://username:password@localhost:27017/yourDB
       database: product-service
-test:testing here
+test: testing here
